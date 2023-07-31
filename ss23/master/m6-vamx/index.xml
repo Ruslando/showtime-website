@@ -12,8 +12,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Ruslando.github.io/showtime-website/ss23/master/m6-vamx/features/</guid>
-      <description>Features VamX &amp;lt;h3&amp;gt;Our project demo&amp;lt;/h3&amp;gt; &amp;lt;div class=&amp;quot;mediathek-player&amp;quot;&amp;gt; &amp;lt;img src = &amp;quot;https://Ruslando.github.io/showtime-website/img/16x9.png&amp;quot; alt=&amp;quot;video placeholder&amp;quot;&amp;gt; &amp;lt;iframe src=&amp;quot;https://mediathek.htw-berlin.de/media/embed?key=533cd81f4b8c446af8757c8d4dcefd88&amp;amp;responsive=true&amp;amp;autoplay=false&amp;amp;t=0&amp;quot; frameborder=&amp;quot;0&amp;quot; allowfullscreen=&amp;quot;allowfullscreen&amp;quot; allowtransparency=&amp;quot;true&amp;quot; scrolling=&amp;quot;no&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;/div&amp;gt; Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
-The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.</description>
+      <description>Features VamX Vamx is a editor tool that allows multiple sounds instances to be grouped and controlled by a single component.
+The Editor component allows the user to import a sound file and manipulate various sound properties using different evaluation methods, such as custom graphs for complex sound manipulation. The various sound properties and their evaluation settings can be saved as presets and reused in other sound files.
+The Editor allows importing regular audio files via the Unity-Editor</description>
     </item>
     
     <item>
